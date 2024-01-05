@@ -1,0 +1,6 @@
+_pycache_
+.venv
+.env
+test.py
+/static/images/*
+!static/images/
