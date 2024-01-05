@@ -1,6 +1,10 @@
-_pycache_
+__pycache__/
 .venv
 .env
 test.py
-/static/images/*
-!static/images/
+
+
+# remove the database
+database.sqlite3
+database.sqlite3-shm
+database.sqlite3-wal
